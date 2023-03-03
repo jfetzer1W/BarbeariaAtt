@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 20px;
+    background-color: #ABAAAAF5;
+}
+.logo{
+   margin-left: 50px; 
+   margin-top: 2px;
+   width: 120px; 
+   height: 120px;
+}
+header{
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #151313;
+}
+ul{
+    display: flex;
+    margin-top: 40px;
+    margin-right: 120px;
+}
+li{
+    color: white;
+    list-style-type: none;
+    cursor: pointer;
+    padding-left: 2rem;
+    font-size: 27px;
+}
+.img{
+    width: 500px;
+    height: 800px;
+    
+}
+.padrao{
+    
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+.salao{
+    margin-top: 100px;
+    margin-left: 130px;
+    height: 320px;
+}
+.img1{
+    margin-top: 100px;
+    margin-left: 130px;
+    height: 320px;
+}
+.img2{
+    width: 500px;
+    justify-content: center;
+    align-items: flex-end;
+    height: 280px;
+    margin-top: 150px;
+}
+.sobre{
+    margin-top: 100px;
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+.psobre{
+    margin-top: 15px;
+    margin-right: 130px;
+}
+.beneficios1{
+    height: 50%;
+    text-align: center;
+    clear: both;
+}
+#cliente{
+    font-size: 30px ;
+
+}
+.textoatendimento{
+    margin-left: 400px;
+    
+}
+.atendimento{
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+.coluninha{
+    display: inline-block;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left ;
+}
+.video{
+    align-items: center;
+    margin-left: 30%;
+}
